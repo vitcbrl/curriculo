@@ -1,1 +1,1 @@
-*Curriculo feito usando html
+* Curriculo feito usando html
